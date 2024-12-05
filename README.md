@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beniveins
+- 👋 Hi, I’m Anmol Singh @beniveins
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently preparing for Comptia Sec+
 - 💞️ I’m looking to collaborate on security projects
